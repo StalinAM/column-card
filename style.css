@@ -125,4 +125,10 @@ footer a {
   .button {
     margin-top: 2rem;
   }
+  .sedans {
+    border-radius: 0.5rem 0 0 0.5rem;
+  }
+  .luxury {
+    border-radius: 0 0.5rem 0.5rem 0;
+  }
 }
